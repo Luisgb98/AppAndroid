@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Para hacer estos textos he seguido este vídeo
+    https://www.youtube.com/watch?v=BO5iCL7U6Lc-->
+
+    <item android:state_enabled="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#EFD1F4"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+
+</selector>
